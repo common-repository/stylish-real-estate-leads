@@ -1,0 +1,15 @@
+= 1.0.4 - 2023-12-06
+* Fixes: Database schema updating logic for future updates
+
+= 1.0.3 - 2023-10-12
+* Fixes: Minor bug fixes
+
+= 1.0.2 - 2023-10-011
+* Fixes: Minor bug fixes
+
+= 1.0.1 - 2023-10-04
+* Fixes: PHP backward compatibility issues
+* Fixes: Minor bug fixes
+
+= 1.0.0 - 2023-10-01
+* Added: Initialize the plugin
